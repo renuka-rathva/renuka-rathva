@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Renuka Rathva, A Passionate Software Developer 🚀</div>  
+# <div align="center">I'm Renuka Rathva, A Passionate Software Developer 🚀</div>  
   
 
 - 🌱 I’m currently learning Redux and Springboot  
